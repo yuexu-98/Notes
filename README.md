@@ -1,1 +1,6 @@
 # Notes
+
+
+
+[SVM](./SVM.md)
+
